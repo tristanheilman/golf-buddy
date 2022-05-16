@@ -18,3 +18,7 @@
 
 - This is a very basic example from the [react navigation](https://reactnavigation.org/) docs.
 - [Drawer navigation documentation](https://reactnavigation.org/docs/drawer-based-navigation).
+
+
+neo4j username - neo4j
+password - XO_7p7l_7_QmiGRfg0nh4OMql2GSYLNFeqiOOP3qXG0
